@@ -1,10 +1,5 @@
 # Human-Security-Project--Bio-id-Based-GeoTagging-systems-for-Humans
-You can see an example here: [Doglix](https://dogflix.com.co/) 🐶🐶
-
-![Doglix Screenshot 1]()
-
 **Bio-id-Based-GeoTagging-systems** This project created for Showing demontration of how we can implement Full-fledged Security System for Humans how we offer peoples immideaty helps when they are stuck in any natural calamaties or in crisis.
-
 ## Features
 
 - This is android Application so anyone can use it.
@@ -13,12 +8,15 @@ You can see an example here: [Doglix](https://dogflix.com.co/) 🐶🐶
 - Responsive design to adapt to different screen sizes.
 
 ## Screenshots
-![Doglix Screenshot 2](https://drive.google.com/file/d/1exOzcGM16KQt2PrKzJuDUy5jFlr1MKC8/view?usp=sharing)
-![Doglix Screenshot 2](https://drive.google.com/file/d/1L0Na2_bATfENtiKPEttbXbTWziPSgYtw/view?usp=sharing)
-![Doglix Screenshot 1](https://drive.google.com/file/d/1xltRoNE45AGcs8m8b5z1CMcVqvme4SFv/view?usp=sharing)
-![Doglix Screenshot 2](https://drive.google.com/file/d/1NUjpjFHlWvUmhxcwGx_yOHCnBFiESqep/view?usp=sharing)
-![Doglix Screenshot 2](https://drive.google.com/file/d/1NUjpjFHlWvUmhxcwGx_yOHCnBFiESqep/view?usp=sharing)
-![Doglix Screenshot 2](https://drive.google.com/file/d/1qGV_S6_aOqXptEHhbIkb4KG3OepPpSgi/view?usp=sharing)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://drive.google.com/uc?export=download&id=1exOzcGM16KQt2PrKzJuDUy5jFlr1MKC8" width="200" style="margin-right: 20px;">
+    <img src="https://drive.google.com/uc?export=download&id=1L0Na2_bATfENtiKPEttbXbTWziPSgYtw" width="200" style="margin-right: 20px;">
+    <img src="https://drive.google.com/uc?export=download&id=1xltRoNE45AGcs8m8b5z1CMcVqvme4SFv" width="200" style="margin-right: 20px;">
+    <img src="https://drive.google.com/uc?export=download&id=1NUjpjFHlWvUmhxcwGx_yOHCnBFiESqep" width="200" style="margin-right: 20px;">
+    <img src="https://drive.google.com/uc?export=download&id=1NUjpjFHlWvUmhxcwGx_yOHCnBFiESqep" width="200" style="margin-right: 20px;">
+    <img src="https://drive.google.com/uc?export=download&id=1qGV_S6_aOqXptEHhbIkb4KG3OepPpSgi" width="200">
+</div>
+
 
 
 ## Technologies Used
@@ -30,9 +28,9 @@ You can see an example here: [Doglix](https://dogflix.com.co/) 🐶🐶
 
 Once you've install and opened app then signup with your credintals and test my app.
 
-## Example
+## Checkout App
 
-You can visit [Doglix](https://dogflix.com.co/) to see a live version of the project.
+https://github.com/omkarjc16/Human-Security-Project--Bio-id-Based-GeoTagging-systems-for-Humans/blob/main/Geotagging_for_human_copy.apk
 
 ## Credits
 
